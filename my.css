@@ -1,0 +1,29 @@
+.btn{ 
+
+    background: red;
+    color: #fff;
+    padding: 10px 10px;
+    cursor:pointer;
+    border: solid 1px white;
+    border-radius: 10px;
+}
+.save{
+    background: green;
+    color: #fff;
+    padding: 10px 10px;
+    cursor:pointer;
+    border: solid 1px white;
+    border-radius: 10px;
+
+}
+.container{
+    background-image: #e2e2e2;
+    height: 100vh;
+    width: 100%;
+
+}
+.inner{
+    position : fixed;
+    top: 100px;
+    left: 45%;
+}
